@@ -6,8 +6,11 @@ I design **functional**, **responsive**, and **modular** frontend solutions with
 
 ## 🚀 About Me
 
-- 🎉 Recently became an **Open Source Contributor** at  
-  [![OSCI](https://img.shields.io/badge/OSCI-Open%20Source%20Connect%20India-blue?style=flat&logo=opensourceinitiative&logoColor=white)](https://oscilabs.in/)
+- Official Contributor of **GirlScript Summer of Code  2025** at
+  ![GSSOC](https://img.shields.io/badge/OSCI-GirlScript%20Summer%20of%20Code%20India-blue?style=flat&logo=opensourceinitiative&logoColor=white)
+
+- 🎉 Recently became an **Open Source Contributor 2025** at  
+  [![OSCI](https://img.shields.io/badge/OSCI-Open%20Source%20Connect%20India-blue?style=flat&logo=opensourceinitiative&logoColor=white)](https://oscilabs.in/)  
 - 💻 Building a platform called **Matepeak** to help learners connect with mentors
 - 🌱 Constantly **building**, **learning**, and **growing** through open source contributions and personal projects
 
