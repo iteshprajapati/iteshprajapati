@@ -1,6 +1,6 @@
 # Hi, I'm Itesh Prajapati 👋
 
-I design **functional**, **responsive**, and **modular** frontend solutions with a passion for creating seamless user experiences.
+A passionate developer out of curiosity and a sense of taking the responsibility that creates an impact!
 
 ---
 
@@ -39,12 +39,6 @@ A mentorship platform connecting learners with experts for personal and professi
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iteshprajapati)
-
----
-
-### ⚡ Fun Fact
-
-> "I believe in learning by doing — open source is the perfect way to grow and give back to the community."
 
 ---
 
