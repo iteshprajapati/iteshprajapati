@@ -1,45 +1,150 @@
 # Hi, I'm Itesh Prajapati 👋
 
-A passionate developer out of curiosity and a sense of taking the responsibility that creates an impact!
+### Full-Stack Developer · React Architecture · Product Builder
+
+*A passionate developer out of curiosity and a sense of taking responsibility that creates an impact.*
+
+I'm a Computer Engineering student who enjoys building scalable full-stack applications and reusable frontend systems. I like understanding how products are built end-to-end—from designing React component architecture and integrating REST APIs to database design and backend workflows.
+
+I learn best by building projects, participating in hackathons, and solving engineering problems that teach me something new.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=F3F4F6&color=F3F4F6)](https://linkedin.com/in/iteshprajapati)
+[![Email](https://img.shields.io/badge/Email-F3F4F6?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=F3F4F6&color=F3F4F6)](mailto:workwithitesh@gmail.com)
+---
+
+## What I Build
+
+I'm particularly interested in building applications where architecture, reusability, and developer experience matter.
+
+* **Full-stack web applications** using React, Node.js, Express, and PostgreSQL.
+* **Reusable component systems** that reduce duplication across large projects.
+* **Role-based dashboards** with modular UI architecture.
+* **REST API integrated applications** with authentication and protected routes.
+* **Hackathon MVPs** built under tight deadlines with scalable project structure.
 
 ---
 
-## 🚀 About Me
+## Internship Experience
 
-- Official Contributor of **GirlScript Summer of Code  2025**
-  ![GSSOC](https://img.shields.io/badge/GSSOC-GirlScript%20Summer%20of%20Code%20India-blue?style=flat&logo=opensourceinitiative&logoColor=white)
+### ReactJS Developer Intern — Orlin Apparel
 
-- 🎉 Recently became an **Open Source Contributor 2025**
-  [![OSCI](https://img.shields.io/badge/OSCI-Open%20Source%20Connect%20India-blue?style=flat&logo=opensourceinitiative&logoColor=white)](https://oscilabs.in/)  
-- 💻 Building a platform called **Matepeak** to help learners connect with mentors
-- 🌱 Constantly **building**, **learning**, and **growing** through open source contributions and personal projects
+**July 2026 · Remote**
 
----
+Worked on a production-scale ERP dashboard used across multiple business workflows.
 
-## 🛠️ Skills
+**What I worked on**
 
-| Category          | Technologies                                  |
-|-------------------|-----------------------------------------------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) <br> Programming       | Java, Python, C, JavaScript, HTML5, CSS3      |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> Frameworks/Libraries | React.js, Bootstrap                          |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> Tools             | Git, GitHub                                   |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br> Databases         | MySQL                                         |
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) <br> UI/UX Design      | Figma                                         |
+* Built a scalable **React 19 + Vite** dashboard with role-based routing supporting **5 user roles**.
+* Developed **14 modular feature modules** including Warehouse, Production, Quality, Sales, and Inventory.
+* Integrated frontend modules with a **12-table PostgreSQL** backend through REST APIs.
+* Engineered a **7-stage Kanban workflow tracker** for production management.
+* Implemented **GST-compliant invoicing**, dynamic forms, validation, and reusable UI components.
+* Focused on clean architecture, reusable components, and scalable project structure.
 
----
+**Stack**
 
-## 🔭 Current Projects
-
-### Matepeak
-
-A mentorship platform connecting learners with experts for personal and professional growth.
+`React 19` · `Vite` · `JavaScript` · `PostgreSQL` · `REST APIs`
 
 ---
 
-## 📫 How to Reach Me
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iteshprajapati)
+### Quiz Portal
+
+A role-based online examination platform built with a complete React + Node.js architecture for students and administrators.
+
+**What makes it interesting**
+
+* Role-based authentication with protected routes.
+* Timer-driven exams with automatic submission.
+* Tab-switch detection for exam integrity.
+* Analytics dashboard showing scores and topic-wise performance.
+* Reusable exam UI built with Context API and modular components.
+
+**Stack**
+
+`React` · `Node.js` · `Express` · `PostgreSQL` · `Context API`
 
 ---
 
-*Thanks for visiting my profile! Feel free to connect or collaborate.*
+### Components Pool
+
+A reusable React component library created to eliminate UI redundancy and improve development speed across large applications.
+
+**What makes it interesting**
+
+* **70+ reusable components** across multiple UI categories.
+* Advanced Table with pagination, filtering, search highlighting, and column visibility.
+* Custom React Hooks for reusable business logic.
+* SCSS-based design system for consistent styling.
+* Built for scalability across multiple feature modules.
+
+**Stack**
+
+`React` · `SCSS` · `JavaScript` · `React Router`
+
+---
+
+## Technical Stack
+
+### Languages
+
+`JavaScript` · `Java` · `SQL` · `HTML5` · `CSS3`
+
+### Frontend
+
+`React` · `Vite` · `React Router` · `SCSS` · `Tailwind CSS` · `Bootstrap`
+
+### Backend
+
+`Node.js` · `Express.js` · `REST APIs` · `JWT Authentication`
+
+### Databases
+
+`PostgreSQL` · `Supabase`
+
+### Tools
+
+`Git` · `GitHub` · `Postman` · `VS Code` · `Figma`· `Imagekit`
+
+---
+
+## Currently Exploring
+
+I'm actively learning and building with:
+
+* PERN Stack Architecture
+* Authentication & Authorization
+* PostgreSQL Database Design
+* Clean React Project Architecture
+* API Integration Patterns
+* Scalable Frontend Systems
+
+The goal isn't to learn more technologies—it's to understand **when and why to use them**.
+
+---
+
+## Achievements
+
+* **Odoo India Hackathon 2026 — National Finalist**
+* **Odoo India Hackathon 2025 — National Finalist** (Top 354 teams out of 19,000+ teams nationwide)
+* **Odoo × IIT Gandhinagar Hackathon 2025 — Finalist**
+* **AI Innovation Hackathon (CSRBOX × IBM) 2025 — Finalist**
+
+---
+
+## Beyond Projects
+
+I enjoy hackathons because they simulate real product development—working with teammates, prioritizing features, integrating APIs, and shipping within strict deadlines.
+
+I'm especially interested in building products that have a real-world impact while continuously improving my engineering fundamentals.
+
+---
+
+## Let's Connect
+
+I'm always open to discussing React architecture, full-stack development, hackathons, or interesting software projects.
+
+* **GitHub:** `iteshprajapati`
+* **LinkedIn:** [Itesh Prajapati](https://linkedin.com/in/iteshprajapati)
+* **Email:** [workwithitesh@gmail.com](mailto:workwithitesh@gmail.com)
