@@ -12,7 +12,7 @@ I'm a Computer Engineering student who enjoys building scalable web applications
 
 I'm particularly interested in building applications where architecture, reusability, and developer experience matter.
 
-* **Web applications** using React, Node.js, Express, and PostgreSQL.
+* **Systems** using React, Node.js, Express, and PostgreSQL.
 * **Reusable component systems** that reduce duplication across large projects.
 * **Role-based dashboards** with modular UI architecture.
 * **Hackathon MVPs** built under tight deadlines with scalable project structure.
