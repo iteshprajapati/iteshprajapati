@@ -4,7 +4,7 @@
 
 I'm a Computer Engineering student who enjoys building scalable web applications and reusable frontend systems.I learn best by building projects, participating in hackathons, and solving engineering problems that teach me something new.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=F3F4F6&color=F3F4F6)](https://linkedin.com/in/iteshprajapati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=F3F4F6&color=F3F4F6)](https://www.linkedin.com/in/gecdhd-comp-itesh-prajapati)
 [![Email](https://img.shields.io/badge/Email-F3F4F6?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=F3F4F6&color=F3F4F6)](mailto:workwithitesh@gmail.com)
 ---
 
