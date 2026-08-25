@@ -4,9 +4,7 @@
 
 *A passionate developer out of curiosity and a sense of taking responsibility that creates an impact.*
 
-I'm a Computer Engineering student who enjoys building scalable full-stack applications and reusable frontend systems. I like understanding how products are built end-to-end—from designing React component architecture and integrating REST APIs to database design and backend workflows.
-
-I learn best by building projects, participating in hackathons, and solving engineering problems that teach me something new.
+I'm a Computer Engineering student who enjoys building scalable full-stack applications and reusable frontend systems.I learn best by building projects, participating in hackathons, and solving engineering problems that teach me something new.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=F3F4F6&color=F3F4F6)](https://linkedin.com/in/iteshprajapati)
 [![Email](https://img.shields.io/badge/Email-F3F4F6?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=F3F4F6&color=F3F4F6)](mailto:workwithitesh@gmail.com)
@@ -43,7 +41,7 @@ Worked on a production-scale ERP dashboard used across multiple business workflo
 
 **Stack**
 
-`React 19` · `Vite` · `JavaScript` · `PostgreSQL` · `REST APIs`
+`React 19` · `Vite` · `JavaScript` · `PostgreSQL`
 
 ---
 
@@ -89,15 +87,15 @@ A reusable React component library created to eliminate UI redundancy and improv
 
 ### Languages
 
-`JavaScript` · `Java` · `SQL` · `HTML5` · `CSS3`
+`JavaScript` · `Java` · `SQL`
 
 ### Frontend
 
-`React` · `Vite` · `React Router` · `SCSS` · `Tailwind CSS` · `Bootstrap`
+`React` · `Vite` `HTML5` · `CSS3`· `React Router` · `SCSS` · `Tailwind CSS` · `Bootstrap`
 
 ### Backend
 
-`Node.js` · `Express.js` · `REST APIs` · `JWT Authentication`
+`Node.js` · `Express.js`· `EJS`
 
 ### Databases
 
