@@ -17,7 +17,6 @@ I'm particularly interested in building applications where architecture, reusabi
 * **Full-stack web applications** using React, Node.js, Express, and PostgreSQL.
 * **Reusable component systems** that reduce duplication across large projects.
 * **Role-based dashboards** with modular UI architecture.
-* **REST API integrated applications** with authentication and protected routes.
 * **Hackathon MVPs** built under tight deadlines with scalable project structure.
 
 ---
