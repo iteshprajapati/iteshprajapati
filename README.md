@@ -8,17 +8,6 @@ I'm a Computer Engineering student who enjoys building scalable web applications
 [![Email](https://img.shields.io/badge/Email-F3F4F6?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=F3F4F6&color=F3F4F6)](mailto:workwithitesh@gmail.com)
 ---
 
-## What I Build
-
-I'm particularly interested in building applications where architecture, reusability, and developer experience matter.
-
-* **Systems** using React, Node.js, Express, and PostgreSQL.
-* **Reusable component systems** that reduce duplication across large projects.
-* **Role-based dashboards** with modular UI architecture.
-* **Hackathon MVPs** built under tight deadlines with scalable project structure.
-
----
-
 ## Internship Experience
 
 ### ReactJS Developer Intern — Orlin Apparel
