@@ -1,10 +1,10 @@
 # Hi, I'm Itesh Prajapati 👋
 
-### Full-Stack Developer · React Architecture · Product Builder
+### Web Application Developer · React Architecture · Product Builder
 
 *A passionate developer out of curiosity and a sense of taking responsibility that creates an impact.*
 
-I'm a Computer Engineering student who enjoys building scalable full-stack applications and reusable frontend systems.I learn best by building projects, participating in hackathons, and solving engineering problems that teach me something new.
+I'm a Computer Engineering student who enjoys building scalable web applications and reusable frontend systems.I learn best by building projects, participating in hackathons, and solving engineering problems that teach me something new.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=F3F4F6&color=F3F4F6)](https://linkedin.com/in/iteshprajapati)
 [![Email](https://img.shields.io/badge/Email-F3F4F6?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=F3F4F6&color=F3F4F6)](mailto:workwithitesh@gmail.com)
@@ -14,7 +14,7 @@ I'm a Computer Engineering student who enjoys building scalable full-stack appli
 
 I'm particularly interested in building applications where architecture, reusability, and developer experience matter.
 
-* **Full-stack web applications** using React, Node.js, Express, and PostgreSQL.
+* **Web applications** using React, Node.js, Express, and PostgreSQL.
 * **Reusable component systems** that reduce duplication across large projects.
 * **Role-based dashboards** with modular UI architecture.
 * **Hackathon MVPs** built under tight deadlines with scalable project structure.
@@ -117,7 +117,7 @@ I'm actively learning and building with:
 * API Integration Patterns
 * Scalable Frontend Systems
 
-The goal isn't to learn more technologies—it's to understand **when and why to use them**.
+The goal is to understand **when and why to use them**.
 
 ---
 
@@ -132,7 +132,7 @@ The goal isn't to learn more technologies—it's to understand **when and why to
 
 ## Beyond Projects
 
-I enjoy hackathons because they simulate real product development—working with teammates, prioritizing features, integrating APIs, and shipping within strict deadlines.
+I enjoy hackathons because they simulate real product development—working with teammates, prioritizing features, and shipping within strict deadlines.
 
 I'm especially interested in building products that have a real-world impact while continuously improving my engineering fundamentals.
 
@@ -140,7 +140,7 @@ I'm especially interested in building products that have a real-world impact whi
 
 ## Let's Connect
 
-I'm always open to discussing React architecture, full-stack development, hackathons, or interesting software projects.
+I'm always open to discussing React architecture, hackathons, or interesting software projects.
 
 * **GitHub:** `iteshprajapati`
 * **LinkedIn:** [Itesh Prajapati](https://linkedin.com/in/iteshprajapati)
