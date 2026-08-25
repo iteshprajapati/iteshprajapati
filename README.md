@@ -1,7 +1,5 @@
 # Hi, I'm Itesh Prajapati 👋
 
-### Web Application Developer · React Architecture · Product Builder
-
 *A passionate developer out of curiosity and a sense of taking responsibility that creates an impact.*
 
 I'm a Computer Engineering student who enjoys building scalable web applications and reusable frontend systems.I learn best by building projects, participating in hackathons, and solving engineering problems that teach me something new.
