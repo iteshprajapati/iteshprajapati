@@ -130,5 +130,5 @@ I'm especially interested in building products that have a real-world impact whi
 I'm always open to discussing React architecture, hackathons, or interesting software projects.
 
 * **GitHub:** `iteshprajapati`
-* **LinkedIn:** [Itesh Prajapati](https://linkedin.com/in/iteshprajapati)
+* **LinkedIn:** [Itesh Prajapati](https://www.linkedin.com/in/gecdhd-comp-itesh-prajapati)
 * **Email:** [workwithitesh@gmail.com](mailto:workwithitesh@gmail.com)
