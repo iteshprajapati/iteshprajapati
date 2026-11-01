@@ -12,60 +12,57 @@ I'm a Computer Engineering student who enjoys building scalable web applications
 
 ### ReactJS Developer Intern — Orlin Apparel
 
-**July 2026 · Remote**
+**July 2026**
 
 Worked on a production-scale ERP dashboard used across multiple business workflows.
 
-**What I worked on**
-
-* Built a scalable **React 19 + Vite** dashboard with role-based routing supporting **5 user roles**.
-* Developed **14 modular feature modules** including Warehouse, Production, Quality, Sales, and Inventory.
-* Integrated frontend modules with a **12-table PostgreSQL** backend through REST APIs.
-* Engineered a **7-stage Kanban workflow tracker** for production management.
-* Implemented **GST-compliant invoicing**, dynamic forms, validation, and reusable UI components.
-* Focused on clean architecture, reusable components, and scalable project structure.
+- Built a React 19 dashboard with **14 feature modules**, reusable components, and responsive layouts.
+- Designed a relational MySQL database with normalized tables, primary and foreign keys, and CRUD operations across inventory, orders, production, and suppliers.
+- Implemented role-based access control for **6 user roles** using React Router guards and protected routes.
+- Developed centralized state management using React Context and reusable hooks.
+- Integrated API services, localStorage fallback, and CSV/PDF export functionality.
+- Created interactive data visualizations using Recharts.
 
 **Stack**
 
-`React 19` · `Vite` · `JavaScript` · `PostgreSQL`
+`React 19` · `MySQL` · `React Context API` · `React Router` · `Recharts` · `CSS`
 
 ---
 
 ## Featured Projects
 
-### Quiz Portal
+### Assessly
+A full-stack online assessment platform featuring dedicated dashboards for administrators, teachers, and students.
 
-A role-based online examination platform built with a complete React + Node.js architecture for students and administrators.
+**[Live](https://assessly-zeta.vercel.app/)**
 
-**What makes it interesting**
+**What I have Implemented**
 
-* Role-based authentication with protected routes.
-* Timer-driven exams with automatic submission.
-* Tab-switch detection for exam integrity.
-* Analytics dashboard showing scores and topic-wise performance.
-* Reusable exam UI built with Context API and modular components.
+- Implemented role-based authentication with protected routes and dedicated dashboards for Admin, Teacher, and Student roles.
+- Integrated **35+ REST APIs** for authentication, data fetching, and CRUD operations.
+- Designed a relational MySQL database with **12+ tables**, foreign keys, and junction tables.
+- Developed timer-driven assessments with automatic submission, dynamic question navigation, and instant grading.
 
 **Stack**
 
-`React` · `Node.js` · `Express` · `PostgreSQL` · `Context API`
+`React.js` · `Express.js` · `JavaScript` · `MySQL` · `AWS RDS` · `Cloudinary`
 
 ---
 
-### Components Pool
+### PeoplePay360 – Odoo HRMS (Team Project)
+A full-stack Human Resource Management System developed collaboratively during the **Odoo India Hackathon 2026** in a 24-hour development sprint.
 
-A reusable React component library created to eliminate UI redundancy and improve development speed across large applications.
+**My Contributions**
 
-**What makes it interesting**
-
-* **70+ reusable components** across multiple UI categories.
-* Advanced Table with pagination, filtering, search highlighting, and column visibility.
-* Custom React Hooks for reusable business logic.
-* SCSS-based design system for consistent styling.
-* Built for scalability across multiple feature modules.
+- Contributed to building a modular React frontend with **9 feature slices** and centralized routing.
+- Developed the **Employee and Contract modules**, implementing CRUD operations, form validation, and API integration.
+- Built a reusable **3-tier SCSS design system** using design tokens and themes.
+- Integrated frontend modules with backend REST APIs built using Express.js.
+- Worked with **PostgreSQL and Drizzle ORM** for relational data management.
 
 **Stack**
 
-`React` · `SCSS` · `JavaScript` · `React Router`
+`React.js` · `Express.js` · `JavaScript` · `PostgreSQL` · `Drizzle ORM` · `SCSS` · `REST APIs`
 
 ---
 
@@ -89,7 +86,7 @@ A reusable React component library created to eliminate UI redundancy and improv
 
 ### Tools
 
-`Git` · `GitHub` · `Postman` · `VS Code` · `Figma`· `Imagekit`
+`Git` · `GitHub` · `AWS RDS`· `Linux`· `Postman` · `VS Code` · `Figma`· `Imagekit`· `Cloudinary`
 
 ---
 
